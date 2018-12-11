@@ -33,7 +33,9 @@ The pre-compiled Linux binaries uses OpenSource Software
 hwloc https://github.com/open-mpi/hwloc/archive/hwloc-2.0.2.tar.gz
 OpenSSL https://www.openssl.org/source/openssl-1.1.1.tar.gz
 microhttpd https://ftp.gnu.org/gnu/libmicrohttpd/libmicrohttpd-0.9.60.tar.gz
+
 -----BEGIN PGP SIGNED MESSAGE-----
+
 Hash: SHA256
 
 
@@ -64,7 +66,9 @@ e19322fac66b6ee5e297e77fc75fa4289289ee288fb27fc45c2cce25  xmr-stak-win64-2.7.2.z
 
 $ date
 Mon Dec 10 21:10:19 CET 2018
+
 -----BEGIN PGP SIGNATURE-----
+
 Version: GnuPG v2
 
 
