@@ -49,6 +49,7 @@ compiled by: psychocrypt
 
 
 $ sha1sum 
+
 a54f81d533853e14d7e4f5625e4248c555d94706  xmr-stak-linux-2.7.2-cpu_cuda-nvidia.tar.xz
 0d174e90a3f9dda32b00112d1411cdf70614a84c  xmr-stak-linux-2.7.2-cpu_opencl-amd.tar.xz
 fb372f462010aac112002321ddb71e4a9ef85f8f  xmr-stak-linux-2.7.2-cpu.tar.xz
@@ -57,11 +58,13 @@ fb372f462010aac112002321ddb71e4a9ef85f8f  xmr-stak-linux-2.7.2-cpu.tar.xz
 
 
 $ sha3sum 
+
 edf56ccb6afefd9079f228b5e23454671c5ec1a592d4120dfc4afa09  xmr-stak-linux-2.7.2-cpu_cuda-nvidia.tar.xz
 188c024c29435994a470a4f8b9b42638c75bcd9ef2f15775e2da321f  xmr-stak-linux-2.7.2-cpu_opencl-amd.tar.xz
 4d2344d8aeb208573237eb1e2ac3dae9d903c8e98a648120f400f577  xmr-stak-linux-2.7.2-cpu.tar.xz
 1c2ef7f7a2219322c344747430a53bfad310b609c30f7fc4c7eb835c  xmr-stak-win64-2.7.2.7z
 e19322fac66b6ee5e297e77fc75fa4289289ee288fb27fc45c2cce25  xmr-stak-win64-2.7.2.zip
+
 
 
 $ date
